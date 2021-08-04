@@ -1,4 +1,4 @@
-# Retrocomputing Hermit Package Manifests
+# Retrocomputing Hermit Package Manifests ![(CI status)](https://github.com/zellyn/retrocomputing-hermit-packages/workflows/CI/badge.svg)
 
 This repository contains package manifests for [Hermit](https://cashapp.github.io/hermit/).
 
